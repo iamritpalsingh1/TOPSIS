@@ -3,10 +3,10 @@ from pathlib import Path
 setup(
   name = 'TOPSIS-AMRIT-102003690',         # How you named your package folder (MyLib)
   packages = ['TOPSIS-AMRIT-102003690'],   # Chose the same as "name"
-  version = '0.5',      # Start with a small number and increase it with every change you make
+  version = '1.0.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TOPSIS Package for Multiple Criteria Decision Making',   # Give a short description about your library
-  author = 'PRANVEE VASHISHT',                   # Type in your name
+  author = 'Amritpal Singh',                   # Type in your name
   url = 'https://github.com/iamritpalsingh1/TOPSIS',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/iamritpalsingh1/TOPSIS/archive/refs/tags/v_05.tar.gz',    # I explain this later on
   keywords = ['Topsis', 'MCDM', 'package'],   # Keywords that define your package best
