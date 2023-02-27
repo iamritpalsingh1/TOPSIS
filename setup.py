@@ -7,8 +7,8 @@ setup(
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TOPSIS Package for Multiple Criteria Decision Making',   # Give a short description about your library
   author = 'PRANVEE VASHISHT',                   # Type in your name
-  url = 'https://github.com/PranveeVashisht/Topsis-102017069',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/PranveeVashisht/Topsis-102017069/archive/refs/tags/v_05.tar.gz',    # I explain this later on
+  url = 'https://github.com/iamritpalsingh1/TOPSIS',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/iamritpalsingh1/TOPSIS/archive/refs/tags/v_05.tar.gz',    # I explain this later on
   keywords = ['Topsis', 'MCDM', 'package'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
